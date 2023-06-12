@@ -1,0 +1,21 @@
+/* color coding */
+body{
+    background-color: aquamarine;
+}
+.heading{
+    background-color: blanchedalmond;
+}
+.para{
+    background-color: burlywood;
+}
+/* dimension */
+.div{
+    background-color: cornflowerblue;
+    width: 40%; 
+    height: 100px;
+    font-size: 2.25rem;
+    margin: 100px 300px 30px 50px;
+}
+.heading{
+    margin: 100px 200px;
+}

@@ -1,0 +1,3 @@
+class can be use multiple times
+each tag can also contain multiple classes
+id is always unique   do not try to use same id multiple times

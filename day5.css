@@ -1,0 +1,31 @@
+/* universal selector */
+*{
+    margin: 5%;
+}
+/* type selector */
+body{ 
+    color: darkmagenta;
+    background-color: burlywood;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/* class selector */
+.first{
+color: rgb(2, 0, 0);
+}
+.large{
+    font-size: 30px;
+}
+/* id selector */
+#eklist{
+    background-color: rgb(245, 245, 126);
+}
+/* attribute selector */
+a[href="upflairs.com"]{
+    color: crimson;
+    text-decoration: none;
+}
+/* pseudo selector */
+.first:hover{
+    color: aliceblue;
+}
+
