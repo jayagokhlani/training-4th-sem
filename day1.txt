@@ -1,0 +1,6 @@
+#dailycommand
+git add.
+git commit -m "daily comment"
+git push origin main
+
+
